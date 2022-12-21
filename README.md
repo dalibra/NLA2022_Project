@@ -11,7 +11,7 @@ Main results of the work:
 - On MNIST dataset the algorithm discovers much lower dimensional representations which preserve meanings.
 
 
-![ssvd_moc.png](img/ssvd_moc.png)
+![ssvd_moc.png](results_jaccard.png)
 
 Requirements:
 - tensorflow >=2.9.2
