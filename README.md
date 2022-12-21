@@ -14,8 +14,8 @@ Main results of the work:
 ![ssvd_moc.png](results_jaccard.png)
 
 Requirements:
-- tensorflow >=2.9.2
+- tensorflow >= 2.9.2
 - matplotlib >= 3.2.2
-- seaborn >=0.11.2
-- numpy >=1.21.6
+- seaborn >= 0.11.2
+- numpy >= 1.21.6
 
