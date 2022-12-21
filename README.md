@@ -1,5 +1,5 @@
 # NLA2022 Final Project, Team Achilles
-The repository for final project (NLA course) - "A connection between sparse and low-rank matrices and its application to manifold learning"
+The repository for final project (NLA course) - "A connection between sparse and low-rank matrices and its application to manifold learning".
 
 Main results of the work:
 - Explored a geometrical connection between sparse and low-rank matrices.
