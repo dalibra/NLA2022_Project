@@ -10,6 +10,7 @@ Main results of the work:
 - The algorithms for Sparse similarity matching and Locally linear extension were implemented from scratch.
 - On MNIST dataset the algorithm discovers much lower dimensional representations which preserve meanings.
 
+The experiments can be repeated by sequentially running the code in `nla_project.ipynb`. All instructions are given in the same file.
 
 ![ssvd_moc.png](results_jaccard.png)
 
@@ -18,4 +19,3 @@ Requirements:
 - matplotlib >= 3.2.2
 - seaborn >= 0.11.2
 - numpy >= 1.21.6
-
