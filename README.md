@@ -1,5 +1,5 @@
 # NLA2022 Final Project, Team Achilles
-The repository for final project at NLA course at Skoltech- "A connection between sparse and low-rank matrices and its application to manifold learning".
+The repository for final project at [NLA course](https://github.com/oseledets/nla2022) at Skoltech- "A connection between sparse and low-rank matrices and its application to manifold learning".
 
 Sparse nonnegative matrix S can be recovered from a real-valued matrix L of significantly lower rank. Of particular interest is the setting where the positive elements of S encode the similarities of nearby points on a low dimensional manifold, and it can be implemented by a neural network with one layer of rectified linear units, so it suggests many possibilities for high dimensional data analysis, especially for data that is naturally represented as a sparse nonnegative matrix. In this project we implement an algorithm for the problem based on the nonlinear low-rank decomposition of sparse matrices.
 
