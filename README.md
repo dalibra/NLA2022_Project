@@ -10,6 +10,9 @@ Main results of the work:
 - The algorithms for Sparse similarity matching and Locally linear extension were implemented from scratch.
 - On MNIST dataset the algorithm discovers much lower dimensional representations which preserve meanings.
 
+
+![ssvd_moc.png](img/ssvd_moc.png)
+
 Requirements:
 - tensorflow >=2.9.2
 - matplotlib >= 3.2.2
